@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nihal Umar</h1>
 <h3 align="center">I'm Cyber Security Passionate & Web Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/realnihalumar" target="blank"><img src="https://img.shields.io/twitter/follow/realnihalumar?logo=twitter&style=for-the-badge" alt="realnihalumar" /></a> </p>
-
 - 🚩 I love playing **CTFs**
 
 - 🌱 I’m currently learning **Web Security**
@@ -18,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/realnihalumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="realnihalumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nihalumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="nihalumar" height="30" width="40" /></a>
 <a href="https://instagram.com/realnihalumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="realnihalumar" height="30" width="40" /></a>
 <a href="https://medium.com/@nihalumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@nihalumar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nihalumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="nihalumar" height="30" width="40" /></a>
