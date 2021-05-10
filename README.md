@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihal Umar</h1>
-<h3 align="center">I'm Cyber Security Passionate & Web Developer</h3>
+<h3 align="center">Cyber Security Passionate & Web Developer</h3>
 
 - 🚩 I love playing **CTFs**
 
